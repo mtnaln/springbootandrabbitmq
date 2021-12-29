@@ -1,1 +1,1 @@
-# Spring Boot ve RabbitMQ Entegrasyonu
+# Spring Boot and RabbitMQ Integration
